@@ -38,12 +38,6 @@ The DIP platform includes key subsystems such as ADP, Decision Agent, DIP Studio
 | **Operator Hub** | Operator management and orchestration platform | [kweaver-ai/operator-hub](https://github.com/kweaver-ai/operator-hub) |
 | **Sandbox** | Sandbox runtime environment | [kweaver-ai/sandbox](https://github.com/kweaver-ai/sandbox) |
 
-## 📚 Quick Links
-
-- 🤝 [Contributing](CONTRIBUTING.md) - Guidelines for contributing to the project
-- 🐛 [Report Bug](https://github.com/kweaver-ai/kweaver/issues) - Report a bug or issue
-- 💡 [Request Feature](https://github.com/kweaver-ai/kweaver/issues) - Suggest a new feature
-
 ---
 
 More components will be open-sourced in the future. Stay tuned!

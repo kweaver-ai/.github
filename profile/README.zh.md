@@ -38,12 +38,6 @@ DIP 平台包括 ADP、Decision Agent、DIP Studio、AI Store 等关键子系统
 | **Operator Hub** | 算子平台，负责算子管理与编排 | [kweaver-ai/operator-hub](https://github.com/kweaver-ai/operator-hub) |
 | **Sandbox** | 沙箱运行环境 | [kweaver-ai/sandbox](https://github.com/kweaver-ai/sandbox) |
 
-## 📚 快速链接
-
-- 🤝 [贡献指南](CONTRIBUTING.zh.md) - 项目贡献指南
-- 🐛 [报告 Bug](https://github.com/kweaver-ai/kweaver/issues) - 报告问题或 Bug
-- 💡 [功能建议](https://github.com/kweaver-ai/kweaver/issues) - 提出新功能建议
-
 ---
 
 后续更多组件开源，敬请期待！

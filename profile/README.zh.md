@@ -44,10 +44,6 @@ DIP 平台包括 ADP、Decision Agent、DIP Studio、AI Store 等关键子系统
 - 🐛 [报告 Bug](https://github.com/kweaver-ai/kweaver/issues) - 报告问题或 Bug
 - 💡 [功能建议](https://github.com/kweaver-ai/kweaver/issues) - 提出新功能建议
 
-## 🤝 贡献指南
-
-我们欢迎贡献！详细贡献指南请参阅 [CONTRIBUTING.zh.md](CONTRIBUTING.zh.md)。
-
 ---
 
 后续更多组件开源，敬请期待！

@@ -10,12 +10,6 @@ KWeaver 是一个构建、发布、运行决策智能型 AI 应用的开源生�
 
 DIP 平台包括 ADP、Decision Agent、DIP Studio、AI Store 等关键子系统。
 
-## 📚 快速链接
-
-- 🤝 [贡献指南](CONTRIBUTING.zh.md) - 项目贡献指南
-- 🐛 [报告 Bug](https://github.com/kweaver-ai/kweaver/issues) - 报告问题或 Bug
-- 💡 [功能建议](https://github.com/kweaver-ai/kweaver/issues) - 提出新功能建议
-
 ## 🏗️ 平台架构
 
     ┌────────────────────────────────────┐
@@ -43,6 +37,12 @@ DIP 平台包括 ADP、Decision Agent、DIP Studio、AI Store 等关键子系统
 | **ADP** | 智能数据平台 - 核心开发框架，包含本体引擎、ContextLoader 和 VEGA 数据虚拟化引擎 | [kweaver-ai/adp](https://github.com/kweaver-ai/adp) |
 | **Operator Hub** | 算子平台，负责算子管理与编排 | [kweaver-ai/operator-hub](https://github.com/kweaver-ai/operator-hub) |
 | **Sandbox** | 沙箱运行环境 | [kweaver-ai/sandbox](https://github.com/kweaver-ai/sandbox) |
+
+## 📚 快速链接
+
+- 🤝 [贡献指南](CONTRIBUTING.zh.md) - 项目贡献指南
+- 🐛 [报告 Bug](https://github.com/kweaver-ai/kweaver/issues) - 报告问题或 Bug
+- 💡 [功能建议](https://github.com/kweaver-ai/kweaver/issues) - 提出新功能建议
 
 ## 🤝 贡献指南
 

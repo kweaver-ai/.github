@@ -10,12 +10,6 @@ KWeaver is an open-source ecosystem for building, deploying, and running decisio
 
 The DIP platform includes key subsystems such as ADP, Decision Agent, DIP Studio, and AI Store.
 
-## 📚 Quick Links
-
-- 🤝 [Contributing](CONTRIBUTING.md) - Guidelines for contributing to the project
-- 🐛 [Report Bug](https://github.com/kweaver-ai/kweaver/issues) - Report a bug or issue
-- 💡 [Request Feature](https://github.com/kweaver-ai/kweaver/issues) - Suggest a new feature
-
 ## 🏗️ Platform Architecture
 
     ┌────────────────────────────────────┐
@@ -43,6 +37,12 @@ The DIP platform includes key subsystems such as ADP, Decision Agent, DIP Studio
 | **ADP** | AI Data Platform - Core development framework, including Ontology Engine, ContextLoader, and VEGA data virtualization engine | [kweaver-ai/adp](https://github.com/kweaver-ai/adp) |
 | **Operator Hub** | Operator management and orchestration platform | [kweaver-ai/operator-hub](https://github.com/kweaver-ai/operator-hub) |
 | **Sandbox** | Sandbox runtime environment | [kweaver-ai/sandbox](https://github.com/kweaver-ai/sandbox) |
+
+## 📚 Quick Links
+
+- 🤝 [Contributing](CONTRIBUTING.md) - Guidelines for contributing to the project
+- 🐛 [Report Bug](https://github.com/kweaver-ai/kweaver/issues) - Report a bug or issue
+- 💡 [Request Feature](https://github.com/kweaver-ai/kweaver/issues) - Suggest a new feature
 
 ## 🤝 Contributing
 

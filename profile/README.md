@@ -13,15 +13,15 @@ The DIP platform includes key subsystems such as ADP, Decision Agent, DIP Studio
 ## 🏗️ Platform Architecture
 
     ┌────────────────────────────────────┐
-    │               ADP                  │
+    │          DIP Platform              │
     │ ┌────────────────────────────────┐ │
-    │ │          DIP Platform          │ │
+    │ │          AI Store              │ │
     │ ├────────────────────────────────┤ │
-    │ │           AI Store             │ │
+    │ │         DIP Studio             │ │
     │ ├────────────────────────────────┤ │
-    │ │          DIP Studio            │ │
+    │ │       Decision Agent           │ │
     │ ├────────────────────────────────┤ │
-    │ │        Decision Agent          │ │
+    │ │            ADP                 │ │
     │ └────────────────────────────────┘ │
     └────────────────────────────────────┘
 

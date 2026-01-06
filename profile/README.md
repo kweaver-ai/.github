@@ -25,16 +25,23 @@ The DIP platform includes key subsystems such as ADP, Decision Agent, DIP Studio
     │ └────────────────────────────────┘ │
     └────────────────────────────────────┘
 
-### 🧩 Core Subsystems
+### 🧩 Subsystems
+
+Core Subsystems
 
 | Sub-project | Description | Repository |
 | --- | --- | --- |
 | **KWeaver** | Overall project architecture, documentation, tools and scripts | [kweaver-ai/kweaver](https://github.com/kweaver-ai/kweaver) |
 | **DIP** | Decision Intelligence Platform (DIP) | [kweaver-ai/dip](https://github.com/kweaver-ai/dip) |
 | **AI Store** | AI application and component marketplace | *Coming soon* |
-| **Studio** | DIP Studio - Visual development and management interface | [kweaver-ai/studio](https://github.com/kweaver-ai/studio) |
+| **DIP Studio** | DIP Studio - Visual development and management interface | [kweaver-ai/studio](https://github.com/kweaver-ai/studio) |
 | **Decision Agent** | Intelligent decision agent | [kweaver-ai/data-agent](https://github.com/kweaver-ai/data-agent) |
 | **ADP** | AI Data Platform - Core development framework, including Ontology Engine, ContextLoader, and VEGA data virtualization engine | [kweaver-ai/adp](https://github.com/kweaver-ai/adp) |
+
+Key Infrastructure
+
+| Sub-project | Description | Repository |
+| --- | --- | --- |
 | **Operator Hub** | Operator management and orchestration platform | [kweaver-ai/operator-hub](https://github.com/kweaver-ai/operator-hub) |
 | **Sandbox** | Sandbox runtime environment | [kweaver-ai/sandbox](https://github.com/kweaver-ai/sandbox) |
 

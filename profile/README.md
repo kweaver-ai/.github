@@ -27,7 +27,7 @@ The DIP platform includes key subsystems such as ADP, Decision Agent, DIP Studio
 
 ### 🧩 Subsystems
 
-Core Subsystems
+Core Subsystems:
 
 | Sub-project | Description | Repository |
 | --- | --- | --- |
@@ -38,7 +38,7 @@ Core Subsystems
 | **Decision Agent** | Intelligent decision agent | [kweaver-ai/data-agent](https://github.com/kweaver-ai/data-agent) |
 | **ADP** | AI Data Platform - Core development framework, including Ontology Engine, ContextLoader, and VEGA data virtualization engine | [kweaver-ai/adp](https://github.com/kweaver-ai/adp) |
 
-Key Infrastructure
+Key Infrastructure:
 
 | Sub-project | Description | Repository |
 | --- | --- | --- |

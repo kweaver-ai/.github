@@ -25,16 +25,23 @@ DIP 平台包括 ADP、Decision Agent、DIP Studio、AI Store 等关键子系统
     │ └────────────────────────────────┘ │
     └────────────────────────────────────┘
 
-### 🧩 核心子系统
+### 🧩 子系统
+
+核心子系统：
 
 | 子项目 | 描述 | 仓库地址 |
 | --- | --- | --- |
 | **KWeaver** | 总体项目架构，包含文档、工具和脚本 | [kweaver-ai/kweaver](https://github.com/kweaver-ai/kweaver) |
 | **DIP** | 决策智能平台 (Decision Intelligence Platform) | [kweaver-ai/dip](https://github.com/kweaver-ai/dip) |
 | **AI Store** | AI 应用与组件市场 | *即将开源* |
-| **Studio** | DIP Studio - 可视化开发与管理界面 | [kweaver-ai/studio](https://github.com/kweaver-ai/studio) |
+| **DIP Studio** | DIP Studio - 可视化开发与管理界面 | [kweaver-ai/studio](https://github.com/kweaver-ai/studio) |
 | **Decision Agent** | 决策智能体 | [kweaver-ai/data-agent](https://github.com/kweaver-ai/data-agent) |
 | **ADP** | 智能数据平台 - 核心开发框架，包含本体引擎、ContextLoader 和 VEGA 数据虚拟化引擎 | [kweaver-ai/adp](https://github.com/kweaver-ai/adp) |
+
+关键基础设施：
+
+| 子项目 | 描述 | 仓库地址 |
+| --- | --- | --- |
 | **Operator Hub** | 算子平台，负责算子管理与编排 | [kweaver-ai/operator-hub](https://github.com/kweaver-ai/operator-hub) |
 | **Sandbox** | 沙箱运行环境 | [kweaver-ai/sandbox](https://github.com/kweaver-ai/sandbox) |
 

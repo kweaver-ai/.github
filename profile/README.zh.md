@@ -10,7 +10,7 @@ KWeaver 是一个构建、发布、运行决策智能型 AI 应用的开源生�
 
 DIP 平台包括 ADP、Decision Agent、DIP Studio、AI Store 等关键子系统。
 
-## 🏗️ 平台架构
+## 🏗️ 架构
 
     ┌────────────────────────────────────┐
     │            DIP 平台                │

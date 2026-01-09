@@ -10,7 +10,7 @@ KWeaver is an open-source ecosystem for building, deploying, and running decisio
 
 The DIP platform includes key subsystems such as ADP, Decision Agent, DIP Studio, and AI Store.
 
-## 🏗️ Platform Architecture
+## 🏗️ Architecture
 
     ┌────────────────────────────────────┐
     │          DIP Platform              │

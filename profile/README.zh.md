@@ -4,7 +4,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/kweaver-ai/kweaver?style=social)](https://github.com/kweaver-ai/kweaver)
 
-> ⭐ **如果您觉得 KWeaver 对您有帮助，请给我们点个 Star！** 您的支持是我们前进的动力。
+> ⭐ **如果您喜欢 KWeaver，请给我们点个 Star！** 您的支持是我们前进的动力。
 
 KWeaver 是一个构建、发布、运行决策智能型 AI 应用的开源生态。此生态采用本体作为业务知识网络的核心方法，以 DIP 为核心平台，旨在提供弹性、敏捷、可靠的企业级决策智能，进一步释放每一员的生产力。
 

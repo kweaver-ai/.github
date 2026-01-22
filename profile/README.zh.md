@@ -34,7 +34,7 @@ DIP 平台包括 ADP、Decision Agent、DIP Studio、AI Store 等关键子系统
 | **KWeaver** | 总体项目架构，包含文档、工具和脚本 | [kweaver-ai/kweaver](https://github.com/kweaver-ai/kweaver) |
 | **AI Store** | AI 应用与组件市场 |  [kweaver-ai/ai-store](https://github.com/kweaver-ai/ai-store) |
 | **DIP Studio** | DIP Studio - 可视化开发与管理界面 | [kweaver-ai/studio](https://github.com/kweaver-ai/studio) |
-| **Decision Agent** | 决策智能体 | [kweaver-ai/data-agent](https://github.com/kweaver-ai/data-agent) |
+| **Decision Agent** | 决策智能体 | [kweaver-ai/decision-agent](https://github.com/kweaver-ai/decision-agent) |
 | **ADP** | 智能数据平台 - 核心开发框架，包含本体引擎、ContextLoader 和 VEGA 数据虚拟化引擎 | [kweaver-ai/adp](https://github.com/kweaver-ai/adp) |
 
 关键基础设施：

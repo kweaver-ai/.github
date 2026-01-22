@@ -34,7 +34,7 @@ Core Subsystems:
 | **KWeaver** | Overall project architecture, documentation, tools and scripts | [kweaver-ai/kweaver](https://github.com/kweaver-ai/kweaver) |
 | **AI Store** | AI application and component marketplace | [kweaver-ai/ai-store](https://github.com/kweaver-ai/ai-store) |
 | **DIP Studio** | DIP Studio - Visual development and management interface | [kweaver-ai/studio](https://github.com/kweaver-ai/studio) |
-| **Decision Agent** | Intelligent decision agent | [kweaver-ai/data-agent](https://github.com/kweaver-ai/decision-agent) |
+| **Decision Agent** | Intelligent decision agent | [kweaver-ai/decision-agent](https://github.com/kweaver-ai/decision-agent) |
 | **ADP** | AI Data Platform - Core development framework, including Ontology Engine, ContextLoader, and VEGA data virtualization engine | [kweaver-ai/adp](https://github.com/kweaver-ai/adp) |
 
 Key Infrastructures:

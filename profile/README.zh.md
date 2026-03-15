@@ -4,6 +4,10 @@
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE.txt)
 
+[![GitHub stars](https://img.shields.io/github/stars/kweaver-ai/kweaver?style=social)](https://github.com/kweaver-ai/kweaver)
+
+> ⭐ **如果您喜欢 KWeaver，请给我们点个 Star！** 您的支持是我们前进的动力。
+
 KWeaver 是一个构建、发布、运行决策智能型 AI 应用的开源生态。此生态以业务知识网络（Business Knowledge Network）为核心方法论，旨在提供弹性、敏捷、可靠的企业级决策智能，进一步释放每一员的生产力。
 
 KWeaver 项目包含 KWeaver Core 和 KWeaver DIP。

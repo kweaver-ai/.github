@@ -4,6 +4,10 @@
 
 [License](LICENSE.txt)
 
+[![GitHub stars](https://img.shields.io/github/stars/kweaver-ai/kweaver?style=social)](https://github.com/kweaver-ai/kweaver)
+
+> ⭐ **If you like KWeaver, please [star us](https://github.com/kweaver-ai/kweaver)!** Your support helps us grow and improve.
+
 KWeaver is an open-source ecosystem for building, deploying, and running decision intelligence AI applications. This ecosystem adopts business knowledge network (Business Knowledge Network) as its core methodology, aiming to provide elastic, agile, and reliable enterprise-grade decision intelligence to further unleash everyone's productivity.
 
 The KWeaver project includes KWeaver Core and KWeaver DIP.

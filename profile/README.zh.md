@@ -2,46 +2,31 @@
 
 中文 | [English](README.md)
 
-[![GitHub stars](https://img.shields.io/github/stars/kweaver-ai/kweaver?style=social)](https://github.com/kweaver-ai/kweaver)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE.txt)
 
-> ⭐ **如果您喜欢 KWeaver，请给我们点个 Star！** 您的支持是我们前进的动力。
+KWeaver 是一个构建、发布、运行决策智能型 AI 应用的开源生态。此生态以业务知识网络（Business Knowledge Network）为核心方法论，旨在提供弹性、敏捷、可靠的企业级决策智能，进一步释放每一员的生产力。
 
-KWeaver 是一个构建、发布、运行决策智能型 AI 应用的开源生态。此生态采用本体作为业务知识网络的核心方法，以 DIP 为核心平台，旨在提供弹性、敏捷、可靠的企业级决策智能，进一步释放每一员的生产力。
+KWeaver 项目包含 KWeaver Core 和 KWeaver DIP。
 
-DIP 平台包括 ADP、Decision Agent、DIP Studio、AI Store 等关键子系统。
+## 平台架构
 
-## 🏗️ 架构
+```text
+┌─────────────────────────────────────────────┐
+│                 KWeaver                     │
+│  ┌───────────────────────────────────────┐  │
+│  │           KWeaver DIP                 │  │
+│  ├───────────────────────────────────────┤  │
+│  │           KWeaver Core                │  │
+│  └───────────────────────────────────────┘  │
+└─────────────────────────────────────────────┘
+```
 
-    ┌────────────────────────────────────┐
-    │            DIP 平台                │
-    │ ┌────────────────────────────────┐ │
-    │ │          AI Store              │ │
-    │ ├────────────────────────────────┤ │
-    │ │         DIP Studio             │ │
-    │ ├────────────────────────────────┤ │
-    │ │       Decision Agent           │ │
-    │ ├────────────────────────────────┤ │
-    │ │            ADP                 │ │
-    │ └────────────────────────────────┘ │
-    └────────────────────────────────────┘
-
-### 🧩 子系统
-
-核心子系统：
+### 核心子系统
 
 | 子项目 | 描述 | 仓库地址 |
 | --- | --- | --- |
-| **KWeaver** | 总体项目架构，包含文档、工具和脚本 | [kweaver-ai/kweaver](https://github.com/kweaver-ai/kweaver) |
-| **AI Store** | AI 应用与组件市场 |  [kweaver-ai/ai-store](https://github.com/kweaver-ai/ai-store) |
-| **DIP Studio** | DIP Studio - 可视化开发与管理界面 | [kweaver-ai/studio](https://github.com/kweaver-ai/studio) |
-| **Decision Agent** | 决策智能体 | [kweaver-ai/decision-agent](https://github.com/kweaver-ai/decision-agent) |
-| **ADP** | 智能数据平台 - 核心开发框架，包含本体引擎、执行工厂、ContextLoader 和 VEGA 数据虚拟化引擎 | [kweaver-ai/adp](https://github.com/kweaver-ai/adp) |
-
-关键基础设施：
-
-| 子项目 | 描述 | 仓库地址 |
-| --- | --- | --- |
-| **Sandbox** | 沙箱运行环境 | [kweaver-ai/sandbox](https://github.com/kweaver-ai/sandbox) |
+| **KWeaver DIP** | 包含 AI 应用与组件市场、DIP Studio 可视化开发与管理界面 | [AI Store](https://github.com/kweaver-ai/ai-store)<br>[DIP Studio](https://github.com/kweaver-ai/studio) |
+| **KWeaver Core** | AI 原生平台基础 —— Decision Agent、AI 数据平台（BKN Engine、VEGA Engine、Context Loader、Execution Factory）、信息安全织物（ISF）、Trace AI | [ADP](https://github.com/kweaver-ai/adp)<br>[Decision Agent](https://github.com/kweaver-ai/decision-agent)<br>[ISF](https://github.com/kweaver-ai/isf)<br>[Trace AI](https://github.com/kweaver-ai/trace-ai) |
 
 ---
 

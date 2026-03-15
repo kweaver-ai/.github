@@ -2,46 +2,33 @@
 
 [中文](README.zh.md) | English
 
-[![GitHub stars](https://img.shields.io/github/stars/kweaver-ai/kweaver?style=social)](https://github.com/kweaver-ai/kweaver)
+[License](LICENSE.txt)
 
-> ⭐ **If you like KWeaver, please [star us](https://github.com/kweaver-ai/kweaver)!** Your support helps us grow and improve.
+KWeaver is an open-source ecosystem for building, deploying, and running decision intelligence AI applications. This ecosystem adopts business knowledge network (Business Knowledge Network) as its core methodology, aiming to provide elastic, agile, and reliable enterprise-grade decision intelligence to further unleash everyone's productivity.
 
-KWeaver is an open-source ecosystem for building, deploying, and running decision intelligence AI applications. This ecosystem adopts ontology as the core methodology for business knowledge networks, with DIP as the core platform, aiming to provide elastic, agile, and reliable enterprise-grade decision intelligence to further unleash everyone's productivity.
+The KWeaver project includes KWeaver Core and KWeaver DIP.
 
-The DIP platform includes key subsystems such as ADP, Decision Agent, DIP Studio, and AI Store.
+## Platform Architecture
 
-## 🏗️ Architecture
+```text
+┌─────────────────────────────────────────────┐
+│                 KWeaver                     │
+│  ┌───────────────────────────────────────┐  │
+│  │           KWeaver DIP                 │  │
+│  ├───────────────────────────────────────┤  │
+│  │           KWeaver Core                │  │
+│  └───────────────────────────────────────┘  │
+└─────────────────────────────────────────────┘
+```
 
-    ┌────────────────────────────────────┐
-    │          DIP Platform              │
-    │ ┌────────────────────────────────┐ │
-    │ │          AI Store              │ │
-    │ ├────────────────────────────────┤ │
-    │ │         DIP Studio             │ │
-    │ ├────────────────────────────────┤ │
-    │ │       Decision Agent           │ │
-    │ ├────────────────────────────────┤ │
-    │ │            ADP                 │ │
-    │ └────────────────────────────────┘ │
-    └────────────────────────────────────┘
+### Core Subsystems
 
-### 🧩 Subsystems
 
-Core Subsystems:
+| Sub-project      | Description                                                                                                                                                   | Repository                                                                                                                                                                                          |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **KWeaver DIP**  | Include AI application and component marketplace, DIP Studio - Visual development and management interface                                                    | [AI Store](https://github.com/kweaver-ai/ai-store) [DIP Studio](https://github.com/kweaver-ai/studio)                                                                                               |
+| **KWeaver Core** | AI-native platform foundation — Decision Agent, AI Data Platform (BKN Engine, VEGA Engine, Context Loader, Execution Factory), Info Security Fabric, Trace AI | [ADP](https://github.com/kweaver-ai/adp) [Decision Agent](https://github.com/kweaver-ai/decision-agent) [ISF](https://github.com/kweaver-ai/isf) [Trace AI](https://github.com/kweaver-ai/trace-ai) |
 
-| Sub-project | Description | Repository |
-| --- | --- | --- |
-| **KWeaver** | Overall project architecture, documentation, tools and scripts | [kweaver-ai/kweaver](https://github.com/kweaver-ai/kweaver) |
-| **AI Store** | AI application and component marketplace | [kweaver-ai/ai-store](https://github.com/kweaver-ai/ai-store) |
-| **DIP Studio** | DIP Studio - Visual development and management interface | [kweaver-ai/studio](https://github.com/kweaver-ai/studio) |
-| **Decision Agent** | Intelligent decision agent | [kweaver-ai/decision-agent](https://github.com/kweaver-ai/decision-agent) |
-| **ADP** | AI Data Platform - Core development framework, including Ontology Engine, Execution Factory, ContextLoader, and VEGA data virtualization engine | [kweaver-ai/adp](https://github.com/kweaver-ai/adp) |
-
-Key Infrastructures:
-
-| Sub-project | Description | Repository |
-| --- | --- | --- |
-| **Sandbox** | Sandbox runtime environment | [kweaver-ai/sandbox](https://github.com/kweaver-ai/sandbox) |
 
 ---
 

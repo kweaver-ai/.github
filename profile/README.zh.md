@@ -36,7 +36,7 @@ KWeaver 项目包含 KWeaver Core 和 KWeaver DIP。
 | 子项目 | 描述 | 仓库地址 |
 | --- | --- | --- |
 | **KWeaver DIP** | 包含 AI 应用与组件市场、DIP Studio 可视化开发与管理界面 | [AI Store](https://github.com/kweaver-ai/ai-store)<br>[DIP Studio](https://github.com/kweaver-ai/studio) |
-| **KWeaver Core** | AI 原生平台基础 —— Decision Agent、AI 数据平台（BKN Engine、VEGA Engine、Context Loader、Execution Factory）、信息安全织物（ISF）、Trace AI | [ADP](https://github.com/kweaver-ai/adp)<br>[Decision Agent](https://github.com/kweaver-ai/decision-agent)<br>[ISF](https://github.com/kweaver-ai/isf)<br>[Trace AI](https://github.com/kweaver-ai/trace-ai) |
+| **KWeaver Core** | AI 原生平台基础 —— Decision Agent、AI 数据平台（BKN Engine、VEGA Engine、Context Loader、Execution Factory）、信息安全织物（ISF）、Trace AI | [ADP](https://github.com/kweaver-ai/adp)<br>[Decision Agent](https://github.com/kweaver-ai/decision-agent)<br>[ISF](https://github.com/kweaver-ai/isf)<br>Trace AI *(coming soon)* |
 
 ---
 

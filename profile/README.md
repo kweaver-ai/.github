@@ -25,8 +25,13 @@ The KWeaver project includes KWeaver Core and KWeaver DIP.
 └─────────────────────────────────────────────┘
 ```
 
-### Core Subsystems
+### Root Project
 
+| Sub-project | Description | Repository |
+| --- | --- | --- |
+| **KWeaver** | Overall project architecture, documentation, tools and scripts | [kweaver](https://github.com/kweaver-ai/kweaver) |
+
+### Core Subsystems
 
 | Sub-project      | Description                                                                                                                                                   | Repository                                                                                                                                                                                          |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

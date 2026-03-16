@@ -25,6 +25,12 @@ KWeaver 项目包含 KWeaver Core 和 KWeaver DIP。
 └─────────────────────────────────────────────┘
 ```
 
+### 根项目
+
+| 子项目 | 描述 | 仓库地址 |
+| --- | --- | --- |
+| **KWeaver** | 总体项目架构，包含文档、工具和脚本 | [kweaver](https://github.com/kweaver-ai/kweaver) |
+
 ### 核心子系统
 
 | 子项目 | 描述 | 仓库地址 |

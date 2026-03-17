@@ -1,10 +1,4 @@
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./logo/dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="./logo/light.png" />
-  <img alt="KWeaver" src="./logo/light.png" width="320" />
-</picture>
-</div>
+# KWeaver
 
 中文 | [English](README.md)
 

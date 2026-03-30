@@ -1,14 +1,8 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo/dark.png" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/logo/light.png" />
-    <img alt="KWeaver" src="./assets/logo/light.png" width="320" />
-  </picture>
-</p>
-
 中文 | [English](README.md)
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/kweaver-ai/kweaver/blob/main/LICENSE.txt)
+
+> ⭐ 如果您喜欢 KWeaver，请[点个 Star](https://github.com/kweaver-ai/kweaver)！您的支持帮助我们成长与改进。
 
 KWeaver 项目以 [**KWeaver Core**](https://github.com/kweaver-ai/kweaver) 与 [**KWeaver DIP**](https://github.com/kweaver-ai/kweaver-dip) 为核心。
 

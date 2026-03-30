@@ -1,40 +1,20 @@
-# KWeaver
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo/dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/logo/light.png" />
+    <img alt="KWeaver" src="./assets/logo/light.png" width="320" />
+  </picture>
+</p>
 
 [中文](README.zh.md) | English
 
-[License](LICENSE.txt)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/kweaver-ai/kweaver/blob/main/LICENSE.txt)
 
-[![GitHub stars](https://img.shields.io/github/stars/kweaver-ai/kweaver?style=social)](https://github.com/kweaver-ai/kweaver)
+The KWeaver project centers on [**KWeaver Core**](https://github.com/kweaver-ai/kweaver) and [**KWeaver DIP**](https://github.com/kweaver-ai/kweaver-dip).
 
-> ⭐ **If you like KWeaver, please [star us](https://github.com/kweaver-ai/kweaver)!** Your support helps us grow and improve.
+[**KWeaver Core**](https://github.com/kweaver-ai/kweaver) is a harness-first foundation for enterprise decision agents. It turns fragmented data, knowledge, tools, and policies into governed context, safe execution, and verifiable feedback loops. With semantic modeling, real-time access, runtime control, and TraceAI, it helps AI systems reason, adapt, and act reliably in complex enterprises.
 
-KWeaver is an open-source ecosystem for building, deploying, and running decision intelligence AI applications. This ecosystem adopts business knowledge network (Business Knowledge Network) as its core methodology, aiming to provide elastic, agile, and reliable enterprise-grade decision intelligence to further unleash everyone's productivity.
-
-The KWeaver project includes KWeaver Core, KWeaver DIP and KWeaver SDK.
-
-## Platform Architecture
-
-```text
-┌─────────────────────────────────────────────┐
-│                 KWeaver                     │
-│  ┌───────────────────────────────────────┐  │
-│  │           KWeaver SDK                 │  │
-│  ├───────────────────────────────────────┤  │
-│  │           KWeaver DIP                 │  │
-│  ├───────────────────────────────────────┤  │
-│  │           KWeaver Core                │  │
-│  └───────────────────────────────────────┘  │
-└─────────────────────────────────────────────┘
-```
-
-### Core Subsystems
-
-| Sub-project | Description | Repository |
-| --- | --- | --- |
-| **KWeaver SDK** | CLI and SDK (TypeScript/Python) for AI agents and developers to access KWeaver knowledge networks and Decision Agents programmatically | [kweaver-sdk](https://github.com/kweaver-ai/kweaver-sdk) |
-| **KWeaver DIP** | Include AI application and component marketplace, DIP Studio - Visual development and management interface | [AI Store](https://github.com/kweaver-ai/ai-store)<br>[DIP Studio](https://github.com/kweaver-ai/studio) |
-| **KWeaver Core** | AI-native platform foundation — Decision Agent, AI Data Platform (BKN Engine, VEGA Engine, Context Loader, Execution Factory), Info Security Fabric, Trace AI | [ADP](https://github.com/kweaver-ai/adp)<br>[Decision Agent](https://github.com/kweaver-ai/decision-agent)<br>[ISF](https://github.com/kweaver-ai/isf)<br>[Trace AI](https://github.com/kweaver-ai/trace-ai) |
-
+[**KWeaver DIP**](https://github.com/kweaver-ai/kweaver-dip) is an AI-native platform for developing and managing digital employees, built on business knowledge networks for understandable, executable, and governable enterprise intelligence.
 
 ---
 

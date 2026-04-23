@@ -8,4 +8,4 @@ The KWeaver project centers on [**KWeaver Core**](https://github.com/kweaver-ai/
 
 > KWeaver Core is a backend-only framework — there is no built-in UI. If you need a graphical interface, install [KWeaver DIP](https://github.com/kweaver-ai/kweaver-dip).
 
-[**KWeaver DIP**](https://github.com/kweaver-ai/kweaver-dip) is an **enterprise-grade open-source digital employee platform**, built on [**KWeaver Core**](https://github.com/kweaver-ai/kweaver). It provides an AI-native environment for developing and managing digital employees on business knowledge networks—for enterprise intelligence that is understandable, executable, and governable.
+[**KWeaver DIP**](https://github.com/kweaver-ai/kweaver-dip) is an **enterprise-level digital employee platform**, built on [**KWeaver Core**](https://github.com/kweaver-ai/kweaver). It provides an AI-native environment for developing and managing digital employees on business knowledge networks—for enterprise intelligence that is understandable, executable, and governable.

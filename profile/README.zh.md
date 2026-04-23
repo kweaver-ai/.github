@@ -8,4 +8,4 @@ KWeaver 项目以 [**KWeaver Core**](https://github.com/kweaver-ai/kweaver) 与 
 
 > KWeaver Core 为纯后台框架，不提供内置 UI。若需要图形化界面，请安装 [KWeaver DIP](https://github.com/kweaver-ai/kweaver-dip)。
 
-[**KWeaver DIP**](https://github.com/kweaver-ai/kweaver-dip) 定位为**企业级开源的数字员工平台**，基于 [**KWeaver Core**](https://github.com/kweaver-ai/kweaver) 开发；以业务知识网络为底座，提供 AI 原生的数字员工开发与管理能力，使企业智能可理解、可执行、可治理。
+[**KWeaver DIP**](https://github.com/kweaver-ai/kweaver-dip) 定位为**企业级数字员工平台**，基于 [**KWeaver Core**](https://github.com/kweaver-ai/kweaver) 开发；以业务知识网络为底座，提供 AI 原生的数字员工开发与管理能力，使企业智能可理解、可执行、可治理。
